@@ -8,6 +8,6 @@ fi
 github=https://github.com/m4kvn
 raw=raw/master
 
-curl -sL $github/install/$raw/init.sh | sh -eu
-curl -sL $github/scripts/$raw/setup.sh | sh -eu
-curl -sL $github/dotfiles/$raw/setup.sh | sh -eu
+curl -sL $github/install/$raw/init.sh | sh
+curl -sL $github/scripts/$raw/setup.sh | sh
+curl -sL $github/dotfiles/$raw/setup.sh | sh
