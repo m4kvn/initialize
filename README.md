@@ -1,5 +1,5 @@
 # initialize
 
 ```
-curl -sL https://github.com/m4kvn/initialize/raw/master/init.sh | sh
+curl -sL https://m4kvn.github.io/initialize/ | sh
 ```
